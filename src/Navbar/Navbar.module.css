@@ -1,0 +1,13 @@
+.Navbar {
+  background-color: #DD9220;
+  padding-left: 20px;
+  margin: 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.Navbar>img {
+  width: 120px;
+}

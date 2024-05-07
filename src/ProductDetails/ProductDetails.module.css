@@ -1,0 +1,63 @@
+.ProductData {
+    width: 100%;
+}
+
+.ProductTitle {
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.ProductDescription {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.SecondaryHeading {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.ProductOptions {
+    width: 100%;
+    max-width: 80px;
+    margin-right: 10px;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.SelectedProduct {
+    border: 2px solid #DD9220;
+    border-radius: 10px;
+}
+
+.ProductFeatures {
+    min-width: 80px;
+    background-color: #DDCCAA;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: content-box;
+    cursor: pointer;
+}
+
+.SelectedFeature {
+    color: #DD9220;
+    background-color: #1a1818;
+}
+
+.BuyButton {
+    background-color: #DD9220;
+    color: #1a1818;
+    font-size: 20px;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+.MainContainer {
+  padding: 5% 12%;
+  margin-top: 52px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
